@@ -1,3 +1,6 @@
+require "helpers/page_helpers"
+helpers PageHelpers
+
 activate :directory_indexes
 activate :autoprefixer
 
