@@ -1,4 +1,4 @@
-# thoughtbot Middleman Starter
+# Pro-Test (Proteus Test)
 
 ## About
 

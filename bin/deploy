@@ -2,3 +2,6 @@
 
 # Deploy using Middleman-deploy
 middleman deploy
+
+# If proteus-kits gem is installed
+proteus deploy

@@ -2,3 +2,6 @@
 
 # Run the Middleman server
 bundle exec middleman
+
+# If proteus-kits gem is installed
+proteus server

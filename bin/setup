@@ -21,3 +21,6 @@ if [ "$(git config --get remote.origin.url)" = "git@github.com:thoughtbot/proteu
     git remote add origin "$url"
   fi
 fi
+
+# If proteus-kits gem is installed
+proteus setup
